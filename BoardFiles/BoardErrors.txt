@@ -1,0 +1,5 @@
+IGBT1, IGBT2, IGBT3 have the wrong silkscreen labeling.  
+GND and +5v is swapped.
+D10 and D1 have the diode band on the wrong side.  
+rotate q5 and q7 180 degrees (the silkscreen is mirrored).  
+A 4.7uF cap from U1 PIN 16 TO U1 PIN 9 is needed.
